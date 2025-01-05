@@ -1840,4 +1840,20 @@ form label {
   opacity: 0;
 }
 
+.mt-5{
+  margin-top: 4em;
+}
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  #fh5co-groom-event {
+      padding: 50px 0;
+  }
+  #fh5co-groom-event .event-wrap {
+      margin-bottom: 20px;
+  }
+}
+
+
 /*# sourceMappingURL=style.css.map */
